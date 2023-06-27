@@ -4,7 +4,7 @@ import PuzzelGame from './Pages/puzzelGame/puzzelGame'
 const App = () => {
   return (
     <div>
-      <PuzzelGame />
+      <PuzzelGame  />
     </div>
   )
 }
